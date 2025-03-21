@@ -1,0 +1,1 @@
+﻿@Section;My work,@activity,@RoutePlan;;RoutePlan,@Tree;;Tree,@Tourplan,opportunity,@Section;Customer,account,contact,lead,@Section;Overview,@Dashboard;;DashboardForm,@Map;;Map,#Products and docs,quote,salesorder,invoice,product,##,@Section;Settings,@Setup,@About
